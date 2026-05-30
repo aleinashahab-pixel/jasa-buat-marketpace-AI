@@ -99,12 +99,9 @@ Saya menyediakan jasa pembuatan website profesional dengan teknologi AI terkini.
 
 ## 📞 **Hubungi Saya**
 
-- 📧 **Email:** aleinashahab@gmail.com
 - 💬 **WhatsApp:** [0812-8299-6533](https://wa.me/6281282996533)
 - 🌐 **Website:** [mhp-dark-ai.vercel.app](https://mhp-dark-ai.vercel.app)
 - 🛒 **Marketplace:** [maduhitamperkasa.web.app](https://maduhitamperkasa.web.app)
-- 🤖 **Telegram Bot:** [@mhpvirus_bot](https://t.me/mhpvirus_bot)
-
 ---
 
 ## ⭐ **Testimoni**
